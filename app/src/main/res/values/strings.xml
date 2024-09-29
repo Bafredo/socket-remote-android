@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ClientV2</string>
+    <string name="enter_port_number">Enter Port number</string>
+    <string name="enter_ip_address">Enter IP address</string>
+    <string name="enter_ip">Enter IP</string>
+    <string name="enter_port">Enter Port number</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+</resources>
